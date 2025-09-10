@@ -24,7 +24,7 @@ Una aplicación con interfaz gráfica en **Tkinter** que permite:
 ✅ Interfaz oscura, moderna y fácil de usar  
 
 📸 **Captura de pantalla:**  
-![Gestor de Contactos](assets/contactos.png)
+![Gestor de Contactos](assets/gestor_contactos.png)
 
 ---
 
@@ -36,7 +36,7 @@ Un script en **Python + Pandas** que:
 - Ideal para análisis rápido en terminal  
 
 📸 **Captura de salida:**  
-![Dashboard CLI](assets/dashboard_cli.png)
+![Dashboard CLI](assets/dashboard_basico.png)
 
 ---
 
@@ -48,7 +48,7 @@ Versión con interfaz gráfica para mostrar métricas de ventas en tiempo real.
 ✅ Posibilidad de filtrar datos y actualizar  
 
 📸 **Captura de pantalla:**  
-![Dashboard GUI](assets/dashboard_gui.png)
+![Dashboard GUI](assets/dashboard_interactivo.png)
 
 ---
 
