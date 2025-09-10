@@ -76,20 +76,32 @@ Un script que consume los datos de la API y los imprime en consola.
 
 ## 🚀 Instalación y Uso
 
-1. **Clonar el repositorio:**
+### 1️⃣ Clonar el repositorio
 ```bash
 git clone https://github.com/iparra-sys/Portafolio-Nivel-3.git
 cd Portafolio-Nivel-3
+```
 
-2. Instalar dependencias necesarias:
+### 2️⃣ Instalar dependencias necesarias
 ```bash
 pip install pandas flask matplotlib
+```
 
-3. Ejecutar cada proyecto según corresponda:
+### 3️⃣ Ejecutar cada proyecto
 ```bash
-python crud_contactos.py
-python dashboard_ventas.py
-python dashboard_ventas_gui.py
-python mini_api.py
-python cliente_mini_api.py
+python crud_contactos.py           # Gestor de contactos (GUI)
+python dashboard_ventas.py         # Dashboard de ventas versión CLI
+python dashboard_ventas_gui.py     # Dashboard de ventas versión GUI
+python mini_api.py                 # Iniciar API con Flask
+python cliente_mini_api.py         # Cliente para consumir la API
+```
 
+---
+
+### 🛠️ Tecnologías Usadas
+- 🐍 **Python 3.13**
+- 🗄 **SQLite** – Base de datos local
+- 🖥 **Tkinter** – Interfaces gráficas
+- 📊 **Pandas & Matplotlib** – Análisis y visualización de datos
+- 🌐 **Flask** – Creación de API REST
+- 🔗 **Requests** – Consumo de APIs
