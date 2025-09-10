@@ -81,3 +81,15 @@ Un script que consume los datos de la API y los imprime en consola.
 git clone https://github.com/iparra-sys/Portafolio-Nivel-3.git
 cd Portafolio-Nivel-3
 
+2. Instalar dependencias necesarias:
+```bash
+pip install pandas flask matplotlib
+
+3. Ejecutar cada proyecto según corresponda:
+```bash
+python crud_contactos.py
+python dashboard_ventas.py
+python dashboard_ventas_gui.py
+python mini_api.py
+python cliente_mini_api.py
+
