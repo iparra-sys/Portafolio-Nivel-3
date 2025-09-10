@@ -1,7 +1,16 @@
-# 📂 Portafolio Nivel 3
+# 📂 Portafolio Nivel 3  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQLite-DB-lightgrey?logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Flask-API-black?logo=flask" alt="Flask">
+  <img src="https://img.shields.io/badge/Estado-Completado-brightgreen" alt="Estado">
+  <img src="https://img.shields.io/badge/Licencia-MIT-yellow" alt="Licencia">
+</p>
 
 Este repositorio contiene proyectos de Python de **nivel intermedio**, enfocados en integrar **bases de datos**, **análisis de datos**, **visualización** y **desarrollo de APIs**.  
 Cada proyecto está diseñado para practicar habilidades esenciales en el desarrollo backend y análisis de datos.
+
 
 ---
 
@@ -105,3 +114,27 @@ python cliente_mini_api.py         # Cliente para consumir la API
 - 📊 **Pandas & Matplotlib** – Análisis y visualización de datos
 - 🌐 **Flask** – Creación de API REST
 - 🔗 **Requests** – Consumo de APIs
+
+---
+
+## 🛠️ Habilidades Desarrolladas  
+
+- 🐍 **Programación en Python** (estructuras, módulos, librerías externas)  
+- 🗄️ **Gestión de bases de datos con SQLite** (CRUD completo)  
+- 🎨 **Diseño de interfaces gráficas con Tkinter** en modo oscuro  
+- 📊 **Análisis y visualización de datos** con Pandas y Matplotlib  
+- 🌐 **Desarrollo de APIs REST con Flask**  
+- 🔗 **Consumo de APIs con Requests**  
+- 🛠️ **Uso de Git y GitHub** para control de versiones y portafolio  
+
+---
+
+## 🚀 Próximos Pasos  
+
+- 🏗️ Implementar **autenticación de usuarios** para el gestor de contactos  
+- 📈 Agregar **dashboards interactivos** con filtros avanzados (Plotly o Dash)  
+- 🌍 Desplegar la **Mini API** en un servicio gratuito (Render, Railway o HuggingFace Spaces)  
+- 🧪 Incluir **pruebas automatizadas** (pytest) para mejorar la calidad del código  
+- 🖥️ Migrar el proyecto a una arquitectura **MVC** para mayor escalabilidad  
+
+---
