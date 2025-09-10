@@ -14,14 +14,17 @@ Cada proyecto está diseñado para practicar habilidades esenciales en el desarr
 
 ---
 
-## 🧾 Tabla de Contenidos
+## 🧾 Tabla de Contenidos  
 
-1. [📇 Gestor de Contactos (CRUD con SQLite)](#-1-gestor-de-contactos-crud-con-sqlite)
-2. [📊 Dashboard de Ventas - Versión 1 (CLI)](#-2-dashboard-de-ventas---versión-1-cli)
-3. [📊 Dashboard de Ventas - Versión 2 (GUI con Tkinter)](#-3-dashboard-de-ventas---versión-2-gui-con-tkinter)
-4. [🌐 Mini API con Flask](#-4-mini-api-con-flask)
-5. [📡 Cliente para la Mini API](#-5-cliente-para-la-mini-api)
-6. [🚀 Instalación y Uso](#-instalación-y-uso)
+1. [📇 Gestor de Contactos (CRUD con SQLite)](#-1-gestor-de-contactos-crud-con-sqlite)  
+2. [📊 Dashboard de Ventas - Versión 1 (CLI)](#-2-dashboard-de-ventas---versión-1-cli)  
+3. [📊 Dashboard de Ventas - Versión 2 (GUI con Tkinter)](#-3-dashboard-de-ventas---versión-2-gui-con-tkinter)  
+4. [🌐 Mini API con Flask](#-4-mini-api-con-flask)  
+5. [📡 Cliente para la Mini API](#-5-cliente-para-la-mini-api)  
+6. [🚀 Instalación y Uso](#-instalación-y-uso)  
+7. [🛠️ Habilidades Desarrolladas](#%EF%B8%8F-habilidades-desarrolladas)  
+8. [🚀 Próximos Pasos](#-próximos-pasos)  
+
 
 ---
 
